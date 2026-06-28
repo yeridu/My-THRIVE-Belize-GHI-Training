@@ -10,7 +10,7 @@ It is a *review and field companion* - not a replacement for the protocol, the S
 
 1. **Introduction** - Belize, the Toledo District, Punta Gorda, languages, and how to work respectfully as a guest.
 2. **The Protocol** - what the feasibility study is, who is surveyed, and what data is collected (with an audio reading option).
-3. **Supplements (by importance)** - Data Management (D) and Safeguarding (G) as high priority, Instruments (A) and Consent (E) as medium, Trial Registration (B) and Schedule (C) as lower; the full manual (F) is linked separately.
+3. **Supplements (by importance)** - Data Management (D) and Safeguarding (G) as high priority, Instruments (A) and Consent (E) as medium, Trial Registration (B) and Schedule (C) as lower; the full manual (F) is linked separately. The Confidentiality Agreement (Supplement H) is available to download where it is referenced in the Data Management section.
 
 A persistent **Get Help** pathway, trauma-informed safeguards, interactive quizzes with hints, on-device progress tracking, and downloadable source documents are available throughout.
 
